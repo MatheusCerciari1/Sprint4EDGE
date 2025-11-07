@@ -1,6 +1,6 @@
 # Sprint4EDGE
 
-Contagem de gols em tempo real com IoT Arduino + Potenciometro + buzzer + Node-RED para registrar gols e mostrar o total em painel interativo.
+Contagem de gols em tempo real com IoT Arduino + Sensor de movimento + buzzer + Node-RED para registrar gols e mostrar o total em painel interativo.
 
 👥 Integrantes Matheus Cerciari Reis RM-565817 Henrique Vicente Vicente RM-564116 Arthur Gaspare Gil RM-555764 Anna Clara Ruggeri da Silva RM-565553 Luis Gustavo Vansconcelos Costa RM-566023
 
@@ -13,6 +13,7 @@ Arduino: ArduinoJson, Potenciometro, buzzer Node-RED: node-red-dashboard, nós S
 Conecte o Arduino e carregue o código com ArduinoJson. Instale Node-RED e o dashboard (npm install node-red-dashboard). Importe o fluxo, configure Serial In ou use Inject para simular gols. O Gauge mostrará o total de gols; o buzzer soa a cada gol.
 
 Links: Simulação Wokwi: https://wokwi.com/projects/441934975598714881 Vídeo YouTube: https://youtu.be/fkyZQ9pIUIY
+
 
 📌 Resumo
 
