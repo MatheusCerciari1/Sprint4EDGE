@@ -6,7 +6,7 @@ Contagem de gols em tempo real com IoT Arduino + Sensor de movimento + buzzer + 
 
 🧩 Componentes
 
-Arduino: ArduinoJson, Potenciometro, buzzer Node-RED: node-red-dashboard, nós Serial In, JSON, Function, Gauge
+Arduino: ArduinoJson, sensor de movimento, buzzer Node-RED: node-red-dashboard, nós Serial In, JSON, Function, Gauge
 
 ⚙️ Como Usar
 
